@@ -96,6 +96,9 @@ JE NE SAIS PAS QUOI METTRE COMME LICENSE
 
 `HealthCall` dataset can be download for researchers involved in Acdaemic Organizations by applying via [here]
  (insert form)
+## 6. Contact
+
+For any further information, contact : nikola.lackovic@malakoffhumanis.com or niko.lackovic@gmail.com
 
 ## 7. Reference
 * Model
