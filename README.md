@@ -26,8 +26,13 @@ This is the repository for the healtcall corpus which consists with textual and 
 The HealthCall (HC) corpus we provide is based on real audio interactions between call center agents and Malakoff Humanis customers who call to solve a problem or to request information. This corpus is designed to study natural spoken conversations and to predict CRM annotations made by human agents from various vocal interaction, audio and linguistic features. This corpus is composed of 2416 spoken conversations of varying duration (from a few minutes to several tens of minutes). Each conversation is anonymized respecting the General Data Protection Regulation (GDPR) recommendation and includes in addition to CRM annotations a transcription made by a Kaldi-based ASR system.
   
 ### The dataset statistics
+	
+| TRAIN  | DEV | This is a long header |
+| --------  | ------------------- | --------------------- |
+| Conversations | Some more data      | data                  | 
+| data      | Some long data here | more data             |
 
-####Corpus Properties	Values
+####Corpus Properties Values
 
 #####General Description
 	
