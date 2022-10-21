@@ -19,7 +19,7 @@ This is the repository for the healtcall corpus which consists with textual and 
     + [Licenses](#licenses)
 * [3. Contact](#3-Contact)
 * [4. Reference](#4-Reference)
-* [5. How to cite)(#5-how-to-cite)
+* [5. How to cite](#5-how-to-cite)
 
 
 ## 1. HealthCall Dataset
