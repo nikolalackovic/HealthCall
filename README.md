@@ -96,8 +96,8 @@ For any further information, contact : nikola.lackovic@malakoffhumanis.com or ni
 ## 4. Reference
 * Model
    * Camembert-base MODEL https://huggingface.co/camembert-base
-   * Audio Model compare2016 (link)
-   * Other Audio Model Link
+   * Audio Model compare2016 https://audeering.github.io/opensmile-python/
+   * Wave2Vec https://huggingface.co/facebook/wav2vec2-base
 
 ## 5. How to cite
 ```
