@@ -80,15 +80,15 @@ HealthCall_xx.json
 
 
 
-## 2. Dataset downloading and license
+## 2. Dataset sample and license
 ```
   
 JE NE SAIS PAS QUOI METTRE COMME LICENSE
 
 ```
 
-`HealthCall` dataset can be download for researchers involved in Acdaemic Organizations by applying via [here]
- (insert form)
+`HealthCall` dataset sample can be downloaded here list files
+
 ## 3. Contact
 
 For any further information, contact : nikola.lackovic@malakoffhumanis.com or niko.lackovic@gmail.com
