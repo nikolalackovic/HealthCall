@@ -101,4 +101,4 @@ For any further information, contact : nikola.lackovic@malakoffhumanis.com or ni
 
 ## 5. How to cite
 ```
-@article{N. Lackovic, C. Montacié, G. Lalande, and M.-J. Caraty, “Prediction of User Request and Complaint in Spoken Customer-Agent Conversations”, in Proceedings INTERSPEECH 2022, 23rd Annual Conference of the International Speech Communication Association, Incheon, Korea, pp. 100–104, 2022.
+@article{Lackovic, N., Montacié, C., Lalande, G., & Caraty, M. J. (2022). Prediction of User Request and Complaint in Spoken Customer-Agent Conversations. arXiv preprint arXiv:2208.10249.}
