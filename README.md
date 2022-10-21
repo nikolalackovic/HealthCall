@@ -14,11 +14,12 @@ This is the repository for the healtcall corpus which consists with textual and 
 * [1. HealthCall Dataset](#1-HealthCall-Dataset)
     + [The dataset statistics](#the-dataset-statistics)
     + [The Json Structure](#the-dataset-structure)
-* [2. Dataset downloading and license](#2-dataset-downloading-and-license)
-    + [HealthCall](#clovacall)
+* [2. Dataset sample and license](#2-dataset-sample-and-license)
+    + [HealthCall](#healthcall)
     + [Licenses](#licenses)
-* [3. Reference](#7-reference)
-* [4. How to cite](#8-how-to-cite)
+* [3. Contact](#3-Contact)
+* [4. Reference](#4-Reference)
+* [5. How to cite)(#5-how-to-cite)
 
 
 ## 1. HealthCall Dataset
@@ -36,7 +37,7 @@ The HealthCall (HC) corpus we provide is based on real audio interactions betwee
 | Max Duration    | 46 min 36 sec |
 | Min Duration    | 1 min 18 sec |
 
-####Experimental Set
+#### Experimental Set
 
 
 | Corpus properties | Values |
