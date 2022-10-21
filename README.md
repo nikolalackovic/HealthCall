@@ -9,13 +9,6 @@ This is the repository for the healtcall corpus which consists with textual and 
 <sup>2</sup>Sorbonne Université Paris, STIH<p>
 <sup>*</sup> Both authors equally contributed to this work.
 
-Automatic prediction of user requests and complaints from spoken conversations between customers and human agents are two important tasks in customer relationship management. 
-For this purpose, we have investigated vocal interaction, audio and linguistic features related to these tasks. The experiments were conducted on 2,416 spoken conversations from the Malakoff Humanis (health mutual) call center. Each conversation was recorded on two separate audio channels, the first one for the user and the second one for the agent. The text transcription of each channel was obtained by the Nuance speech recognition system. Vocal interaction features were computed from a statistical model of talk spurts and silences. Each word of the text transcript was encoded by a Bidirectional Encoder Representation from Transformers (BERT). The sequence of encoded words is then fed into a feature compression block: a single linguistic feature vector for the entire ? channel. 
-Audio features were extracted using openSMILE and ComPaRe audio feature set. The results show that linguistic features predict the type of user request better than other features. On the other hand, the vocal interaction and audio features are more discriminating in detecting user complaints. The combination of all these features allows a significant improvement of the results in terms of Unweighted Average Recall (UAR).
-
-
-
-
 ## Table of contents 
 
 * [1. HealthCall Dataset](#1-HealthCall-Dataset)
