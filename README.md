@@ -96,9 +96,9 @@ To all the materials including speech data distributed here(hereinafter, “MATE
 
 `HealthCall` samples :
 
-audio sample can be downloaded here : https://github.com/nikolalackovic/HealthCall/blob/main/Audio01_0fcd62FEa80454_2021-01-26_09h05_12Anonyme.wav
+audio sample can be downloaded here : https://github.com/nikolalackovic/HealthCall/raw/main/Audio01_0fcd62FEa80454_2021-01-26_09h05_12Anonyme.wav
 	
-json sample can be downloaded here : https://github.com/nikolalackovic/HealthCall/blob/main/Transcription01_0fcd62FEa80454_2021-01-26_09h05.json
+json sample can be downloaded here : https://github.com/nikolalackovic/HealthCall/raw/main/Transcription01_0fcd62FEa80454_2021-01-26_09h05.json
 
 
 ## 3. Contact
