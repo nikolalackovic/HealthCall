@@ -91,7 +91,7 @@ JE NE SAIS PAS QUOI METTRE COMME LICENSE
 
 audio sample can be downloaded here : https://github.com/nikolalackovic/HealthCall/blob/main/Audio01_0fcd62FEa80454_2021-01-26_09h05_12Anonyme.wav
 	
-json sample can be downloaded here : 
+json sample can be downloaded here : https://github.com/nikolalackovic/HealthCall/blob/main/Transcription01_0fcd62FEa80454_2021-01-26_09h05.json
 
 
 ## 3. Contact
