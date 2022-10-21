@@ -88,7 +88,15 @@ HealthCall_xx.json
 ## 2. Dataset sample and license
 ```
   
-JE NE SAIS PAS QUOI METTRE COMME LICENSE
+To all the materials including speech data distributed here(hereinafter, “MATERIALS”), the following license(hereinafter, “LICENSE”) shall apply.
+
+1. You are allowed to use the MATERIALS ONLY FOR NON-COMMERCIAL AI(Artificial Intelligence) RESEARCH AND DEVELOPMENT PURPOSES – ANY KIND OF COMMERCIAL USE IS STRICTLY PROHIBITED.
+2. You should USE THE MATERIALS AS THEY WERE PROVIDED – ANY KIND OF MODIFICATION, EDITING AND REPRODUCTION TO DATA IS STRICTLY PROHIBITED.
+3. You should use the MATERIALS only by/for yourself. You are NOT ALLOWED TO COPY, DISTRIBUTE, PROVIDE, TRANSPORT THE MATERIALS TO ANY 3RD PARTY OR TO THE PUBLIC including uploading the MATERIALS to internet.
+4. You should clearly notify the source of the MATERIALS as “Malakoff Humanis” when your use the MATERIALS.
+5. Malakoff Humanis DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, INTEGRITY, QUALITY OR ADEQUACY OF THE MATERIALS, THUS ARE NOT LIABLE OR RESPONSIBLE FOR THE MATERIALS PROVIDED HERE.
+
+※ Please be noted that since the MATERIALS should be used within the confines of the voice right owner’s agreement (which was reflected in the LICENSE above), your non-compliance of the LICENSE (for example, using the MATERIAL for commercial use or modifying or distributing the MATERIAL) shall also constitute infringement on the voice right owner’s rights, thus may cause expose you to legal claims from the voice right owner.
 
 ```
 
