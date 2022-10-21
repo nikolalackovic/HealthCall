@@ -27,38 +27,31 @@ The HealthCall (HC) corpus we provide is based on real audio interactions betwee
   
 ### The dataset statistics
 	
-| Corpus Properties | Values |
+#### General Description
+	
+| Corpus properties | Values |
 | --------  | ------------------- |
-| Conversations | Some more data   | 
-| data      | Some long data here |
+| Number of conversations | 2416  | 
+| Total Duration    | 251 hours 53 min |
+| Max Duration    | 46 min 36 sec |
+| Min Duration    | 1 min 18 sec |
 
-####Corpus Properties Values
+####Experimental Set
 
-#####General Description
+
+| Corpus properties | Values |
+| ---------------- | ------ |
+| Conversations Train | 	1214|
+| Request (Process) | Train	650|
+| Request (Member) | Train 	564|
+| Complaint | Train 461|
+| No Complaint | Train 753|
+|Conversations Dev |	1202|
+|Request (Process)  Dev |	584|
+|Request (Member) Dev | 618|
+|Complaint Dev | 455| 
+|No Complaint Dev | 747|
 	
-Number of conversations	2416
-Total Duration 251 hours 53 min
-Max Duration 46 min 36 sec
-Min Duration 1 min 18 sec
-
-#####Experimental Set
-	
-TRAIN
-  
-Conversations Train 	1214
-Request (Process) Train	650
-Request (Member) Train 	564
-Complaint Train 461
-No Complaint Train 753
-
- DEV
-
-Conversations Dev	1202
-Request (Process)  Dev	584
-Request (Member) Dev 618
-Complaint Dev 455
-No Complaint Dev 747
-
 
 ### The dataset structure
 
