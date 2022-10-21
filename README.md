@@ -27,10 +27,10 @@ The HealthCall (HC) corpus we provide is based on real audio interactions betwee
   
 ### The dataset statistics
 	
-| TRAIN  | DEV | This is a long header |
-| --------  | ------------------- | --------------------- |
-| Conversations | Some more data      | data                  | 
-| data      | Some long data here | more data             |
+| Corpus Properties | Values |
+| --------  | ------------------- |
+| Conversations | Some more data   | 
+| data      | Some long data here |
 
 ####Corpus Properties Values
 
