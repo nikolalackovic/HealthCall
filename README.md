@@ -1,7 +1,7 @@
 ## HealthCall
-This is the repository for the healtcall corpus which consists with textual and audio data for the 2022 INTERSPEECH CONFERENCE paper, Prediction of User Request and Complaint in Spoken Customer-Agent Conversations
+This is the repository for the healtcall corpus which consists with textual and audio data for the Arxiv preprint: https://arxiv.org/abs/2208.10249
 
-[INTERSPEECH 2022 Paper]
+[Arxiv 2022 Paper]
 
 [Lackovic Nikola], [Montacié Claude], [Lalande Gauthier], [Caraty Marie-José]
 
